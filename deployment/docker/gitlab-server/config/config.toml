@@ -1,0 +1,2 @@
+concurrent = 4
+log_level = "warning"
