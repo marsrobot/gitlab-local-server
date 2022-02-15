@@ -7,7 +7,7 @@
 - Go to directory deployment/docker
 - Run ./docker_run.sh
 
-# Client test
+# Client usage
 - In browser, go to http://GITLAB-LOCAL-SERVER-IP:8980/ to manage Gitlab repos. GITLAB-LOCAL-SERVER-IP is the intranet Gitlab server IP or DNS name.
 - The default admin user is "root@local" and the password is "apassword". Change user and password in docker_run.sh for better security.
 
