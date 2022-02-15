@@ -3,7 +3,7 @@
 # Purpose
 - Set up an intranet Gitlab server for source version control
 
-# Start the Docker Registry Server on the server machine
+# Start the Gitlab Server on the server machine
 - Go to directory deployment/docker/gitlab-server
 - Run ./docker_run.sh
 
